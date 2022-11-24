@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cookbook.API", "Cookbook.API\Cookbook.API.csproj", "{2BB2023E-5849-4B49-924F-76BC7F0D5948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BB2023E-5849-4B49-924F-76BC7F0D5948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB2023E-5849-4B49-924F-76BC7F0D5948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB2023E-5849-4B49-924F-76BC7F0D5948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB2023E-5849-4B49-924F-76BC7F0D5948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1DED4D5-AA34-4B7D-97E7-FC8450E498FC}
+	EndGlobalSection
+EndGlobal
